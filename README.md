@@ -20,7 +20,6 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Git
 - Python
 - R
-  - Creación de diagramas 
 
 
 
@@ -29,13 +28,11 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
-4. Andrés Sebastian Calderón Velasco
 
 ## INFORMACIÓN ADICIONAL
 
-<https://bioinfotraining.bio.cam.ac.uk/>
-- Curso de R para principiantes <https://www.youtube.com/watch?v=TexeDzmlQiY>
-
+- Página de la Univerdidad de Cambridge para entrenamiento en Bioinformática: <https://bioinfotraining.bio.cam.ac.uk/>
+-https://www.youtube.com/watch?v=HiXLkL42tMU
 
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
